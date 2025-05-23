@@ -1,0 +1,23 @@
+:root {
+    --primary-accent: #00C2D1;
+    --secondary-accent: #CE67D3;
+  }
+  
+  .dark {
+    --primary-accent: #00FFF7;
+    --secondary-accent: #CE67D3;
+  }
+
+  .t{
+    margin: 0 auto;
+  }
+  .m{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+  }
+  .f{
+    margin: 0 auto;
+    width: 55%;
+  }
